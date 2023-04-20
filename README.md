@@ -35,4 +35,4 @@ To run the application locally, follow these steps:
 6. Open your web browser and visit `http://127.0.0.1:5000` to access the application.
 
 ## App
-
+![](https://github.com/giorgosrigas/flask_excel_processor/blob/main/flask_gif.gif)
