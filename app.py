@@ -20,18 +20,18 @@ def index():
     <title>Upload Excel File</title>
     <style>
         body {
-            background-color: navy;
+            background-color: DarkSlateBlue;
             color: white;
         }
         input[type="file"],
         input[type="submit"] {
             font-size: 1.2em;
-            padding: 10px;
+            padding: 5px;
         }
     </style>
 </head>
 <body>
-    <h1>Upload the file Mr Bourdako please</h1>
+    <h1>Upload the excel file</h1>
     <form action="/upload" method="POST" enctype="multipart/form-data">
         <input type="file" name="file" accept=".xls,.xlsx">
         <input type="submit" value="Upload">
