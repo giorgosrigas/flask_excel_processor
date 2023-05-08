@@ -31,7 +31,7 @@ To run the application locally, follow these steps:
    - On Windows: `venv\Scripts\activate`
    - On macOS and Linux: `source venv/bin/activate`
 4. Install the required packages: `pip install -r requirements.txt`
-5 Run the application: `python app.py`
+5. Run the application: `python app.py`
 6. Open your web browser and visit `http://127.0.0.1:5000` to access the application.
 
 ## App
